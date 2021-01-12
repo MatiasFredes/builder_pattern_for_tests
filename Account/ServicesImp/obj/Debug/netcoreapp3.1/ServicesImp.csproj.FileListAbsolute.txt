@@ -1,0 +1,16 @@
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\ServicesImp.deps.json
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\ServicesImp.dll
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\ServicesImp.pdb
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\obj\Debug\netcoreapp3.1\ServicesImp.csprojAssemblyReference.cache
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\obj\Debug\netcoreapp3.1\ServicesImp.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\obj\Debug\netcoreapp3.1\ServicesImp.AssemblyInfo.cs
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\obj\Debug\netcoreapp3.1\ServicesImp.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\obj\Debug\netcoreapp3.1\ServicesImp.csproj.CopyComplete
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\obj\Debug\netcoreapp3.1\ServicesImp.dll
+C:\Users\Matias\Documents\GitHub\builder_pattern_for_tests\Account\ServicesImp\obj\Debug\netcoreapp3.1\ServicesImp.pdb
