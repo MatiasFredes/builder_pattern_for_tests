@@ -5,4 +5,4 @@ El patrón Builder es un patrón de diseño creacional del Gang of Four (GoF). E
 
 ![alt text](https://learning.oreilly.com/library/view/adaptive-code-agile/9781509302598/graphics/F05AC08.jpg)
 
-Siempre que un objeto se pueda configurar de múltiples formas, el patrón Builder puede simplificar su código de creación y aclarar la intención
+Siempre que un objeto se pueda configurar de múltiples formas, el patrón Builder puede simplificar el código de creación y aclarar la intención
